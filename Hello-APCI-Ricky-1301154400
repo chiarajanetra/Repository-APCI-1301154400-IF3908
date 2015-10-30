@@ -2,5 +2,11 @@ Program Hello;
 uses crt;
 begin
 clrscr;
-  writeln('Hello World')
-end
+writeln('Hello World');
+writeln('1301154400')
+writeln('Chiara Janetra Cakravania');
+writeln('IF-39-08');
+writeln('Ricky');
+writeln('1301154428');
+writeln('Modul 6'); 	
+end.
